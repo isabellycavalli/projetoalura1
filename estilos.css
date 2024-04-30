@@ -1,0 +1,52 @@
+/* Reset de estilos*/
+*{
+    margin: 0;
+    padding 0;
+    box-sizing:border box;
+}
+
+
+/*Estilos persenalizados */
+body{
+    font-family: arial,sans-serif;
+    background-color: :#f0f0f0;
+}
+
+
+.container{
+    mas: width 800px;
+    margin: 20px auto;
+    paddding:5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0,1);
+}
+
+
+Header {
+    tex-aling: center;
+}
+
+
+img{
+    border-radius:50%;
+    width: 150px;
+    height:150px;
+}
+main{ 
+    margin-top:20px;
+}
+
+section{
+    margin-botton;20px;
+}
+
+h1, h2{ 
+    color:#333;
+}
+
+ul{
+    liat-style-type:none;
+}
+footer{
+    text-aling:center;
+    margin-top:20px
+}
